@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\Carrera.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="767" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="include\Informe.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2566" topLine="62" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="21" />
+			<Collapse line="33" />
+			<Collapse line="47" />
+			<Collapse line="79" />
+			<Collapse line="109" />
+			<Collapse line="140" />
+			<Collapse line="170" />
+			<Collapse line="198" />
+			<Collapse line="232" />
+			<Collapse line="248" />
+			<Collapse line="267" />
+			<Collapse line="281" />
+			<Collapse line="303" />
+			<Collapse line="318" />
+			<Collapse line="345" />
+			<Collapse line="375" />
+			<Collapse line="390" />
+			<Collapse line="405" />
+			<Collapse line="419" />
+			<Collapse line="433" />
+			<Collapse line="440" />
+			<Collapse line="456" />
+			<Collapse line="512" />
+			<Collapse line="545" />
+			<Collapse line="560" />
+			<Collapse line="587" />
+		</Folding>
+	</File>
+	<File name="include\Catedra.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="545" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="src\Menu.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24677" topLine="747" />
+		</Cursor>
+	</File>
+	<File name="include\Menu.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\funcionesdeclases.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2845" topLine="243" />
+		</Cursor>
+		<Folding>
+			<Collapse line="140" />
+			<Collapse line="153" />
+			<Collapse line="186" />
+			<Collapse line="201" />
+			<Collapse line="244" />
+			<Collapse line="261" />
+			<Collapse line="324" />
+			<Collapse line="366" />
+			<Collapse line="391" />
+			<Collapse line="404" />
+			<Collapse line="423" />
+			<Collapse line="446" />
+			<Collapse line="459" />
+			<Collapse line="479" />
+			<Collapse line="499" />
+			<Collapse line="517" />
+			<Collapse line="535" />
+			<Collapse line="553" />
+			<Collapse line="571" />
+			<Collapse line="589" />
+			<Collapse line="609" />
+			<Collapse line="631" />
+			<Collapse line="649" />
+			<Collapse line="667" />
+			<Collapse line="687" />
+			<Collapse line="706" />
+			<Collapse line="724" />
+			<Collapse line="744" />
+		</Folding>
+	</File>
+	<File name="src\Catedra.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6504" topLine="127" />
+		</Cursor>
+	</File>
+	<File name="include\Conf.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="284" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Clases.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Listado.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="27686" topLine="297" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="28" />
+		</Folding>
+	</File>
+	<File name="src\Calificacion.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="306" topLine="136" />
+		</Cursor>
+	</File>
+	<File name="src\Carrera.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="267" topLine="139" />
+		</Cursor>
+	</File>
+	<File name="src\Conf.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="875" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="include\Fecha.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\MenuMetodos.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3237" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="src\Catedra_alumnos.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1229" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="src\Asignatura.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4357" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="src\verificaciones.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16148" topLine="474" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="361" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Persona.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="331" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Persona.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1436" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Catedra_alumnos.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="503" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\Calificacion.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="520" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="include\Asignatura.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="263" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

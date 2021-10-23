@@ -1,0 +1,522 @@
+# depslib dependency file v1.0
+1583099116 source:c:\users\matias\desktop\gestionuniversidad\main.cpp
+	<iostream>
+	<Menu.h>
+	<Conf.h>
+
+1583388682 c:\users\matias\desktop\gestionuniversidad\include\menu.h
+	<cstdlib>
+	<cstdio>
+	<Clases.h>
+	"rlutil.h"
+
+1581534474 c:\users\matias\desktop\gestionuniversidad\include\clases.h
+	<Calificacion.h>
+	<Carrera.h>
+	<Catedra.h>
+	<Facultad.h>
+	<Fecha.h>
+	<Asignatura.h>
+	<Persona.h>
+
+1583355341 c:\users\matias\desktop\gestionuniversidad\include\calificacion.h
+	"rlutil.h"
+	<cstdlib>
+	<cstdio>
+	"Fecha.h"
+
+1464936568 c:\users\matias\desktop\gestionuniversidad\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1582661919 c:\users\matias\desktop\gestionuniversidad\include\fecha.h
+
+1583390339 c:\users\matias\desktop\gestionuniversidad\include\carrera.h
+	<Catedra.h>
+	<materia.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"rlutil.h"
+
+1583380914 c:\users\matias\desktop\gestionuniversidad\include\catedra.h
+	"rlutil.h"
+	<Persona.h>
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1583357256 c:\users\matias\desktop\gestionuniversidad\include\persona.h
+	<Clases.h>
+	<string.h>
+	<fecha.h>
+
+1576162217 c:\users\matias\desktop\gestionuniversidad\include\materia.h
+	"rlutil.h"
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1576162467 c:\users\matias\desktop\gestionuniversidad\include\facultad.h
+
+1583354171 c:\users\matias\desktop\gestionuniversidad\include\asignatura.h
+	"rlutil.h"
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1583409663 c:\users\matias\desktop\gestionuniversidad\include\conf.h
+
+1583390034 source:c:\users\matias\desktop\gestionuniversidad\src\asignatura.cpp
+	"Asignatura.h"
+	<cstdlib>
+	<verificaciones.h>
+	<Conf.h>
+
+1583382351 c:\users\matias\desktop\gestionuniversidad\include\verificaciones.h
+	<Catedra.h>
+	<Persona.h>
+
+1583396901 source:c:\users\matias\desktop\gestionuniversidad\src\calificacion.cpp
+	"Calificacion.h"
+	<cstdlib>
+	<cstdio>
+	<verificaciones.h>
+	<Conf.h>
+
+1583390339 source:c:\users\matias\desktop\gestionuniversidad\src\carrera.cpp
+	"Carrera.h"
+	<string.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583380985 source:c:\users\matias\desktop\gestionuniversidad\src\catedra.cpp
+	"Catedra.h"
+	<cstdlib>
+	<verificaciones.h>
+	<Conf.h>
+
+1583394986 source:c:\users\matias\desktop\gestionuniversidad\src\catedra_alumnos.cpp
+	"Catedra_alumnos.h"
+	<cstdlib>
+	<cstdio>
+	<verificaciones.h>
+	<Conf.h>
+
+1583381024 c:\users\matias\desktop\gestionuniversidad\include\catedra_alumnos.h
+	"rlutil.h"
+	<cstdio>
+	<cstdlib>
+
+1583410704 source:c:\users\matias\desktop\gestionuniversidad\src\conf.cpp
+	<iostream>
+	<windows.h>
+	"Conf.h"
+	<cstdio>
+	<cstdlib>
+
+1582661928 source:c:\users\matias\desktop\gestionuniversidad\src\fecha.cpp
+
+1583409489 source:c:\users\matias\desktop\gestionuniversidad\src\funcionesdeclases.cpp
+	<funcionesdeclases.h>
+
+1583381289 c:\users\matias\desktop\gestionuniversidad\include\funcionesdeclases.h
+	"rlutil.h"
+	<Catedra_alumnos.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583410704 source:c:\users\matias\desktop\gestionuniversidad\src\menu.cpp
+	"Menu.h"
+	"rlutil.h"
+	<Listado.h>
+	<Informe.h>
+	<Conf.h>
+	<funcionesdeclases.h>
+
+1583409349 c:\users\matias\desktop\gestionuniversidad\include\listado.h
+	<ctype.h>
+	<Clases.h>
+	<Catedra_alumnos.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583397649 c:\users\matias\desktop\gestionuniversidad\include\informe.h
+	<verificaciones.h>
+	<Conf.h>
+
+1583397982 source:c:\users\matias\desktop\gestionuniversidad\src\menumetodos.cpp
+	"Menu.h"
+	"rlutil.h"
+	<funcionesdeclases.h>
+	<Catedra_alumnos.h>
+
+1583407087 source:c:\users\matias\desktop\gestionuniversidad\src\persona.cpp
+	"Persona.h"
+	<string.h>
+	"rlutil.h"
+	<verificaciones.h>
+	<Conf.h>
+
+1583397338 source:c:\users\matias\desktop\gestionuniversidad\src\verificaciones.cpp
+	<verificaciones.h>
+	<Clases.h>
+	<Catedra_alumnos.h>
+	<funcionesdeclases.h>
+	<Conf.h>
+
+1583099116 source:c:\users\matias\desktop\utn\gestionuniversidad\main.cpp
+	<iostream>
+	<Menu.h>
+	<Conf.h>
+
+1583388682 c:\users\matias\desktop\utn\gestionuniversidad\include\menu.h
+	<cstdlib>
+	<cstdio>
+	<Clases.h>
+	"rlutil.h"
+
+1581534474 c:\users\matias\desktop\utn\gestionuniversidad\include\clases.h
+	<Calificacion.h>
+	<Carrera.h>
+	<Catedra.h>
+	<Facultad.h>
+	<Fecha.h>
+	<Asignatura.h>
+	<Persona.h>
+
+1583355341 c:\users\matias\desktop\utn\gestionuniversidad\include\calificacion.h
+	"rlutil.h"
+	<cstdlib>
+	<cstdio>
+	"Fecha.h"
+
+1464936568 c:\users\matias\desktop\utn\gestionuniversidad\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1582661919 c:\users\matias\desktop\utn\gestionuniversidad\include\fecha.h
+
+1583390339 c:\users\matias\desktop\utn\gestionuniversidad\include\carrera.h
+	<Catedra.h>
+	<materia.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"rlutil.h"
+
+1583380914 c:\users\matias\desktop\utn\gestionuniversidad\include\catedra.h
+	"rlutil.h"
+	<Persona.h>
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1583357256 c:\users\matias\desktop\utn\gestionuniversidad\include\persona.h
+	<Clases.h>
+	<string.h>
+	<fecha.h>
+
+1576162217 c:\users\matias\desktop\utn\gestionuniversidad\include\materia.h
+	"rlutil.h"
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1576162467 c:\users\matias\desktop\utn\gestionuniversidad\include\facultad.h
+
+1583354171 c:\users\matias\desktop\utn\gestionuniversidad\include\asignatura.h
+	"rlutil.h"
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1583409663 c:\users\matias\desktop\utn\gestionuniversidad\include\conf.h
+
+1583390034 source:c:\users\matias\desktop\utn\gestionuniversidad\src\asignatura.cpp
+	"Asignatura.h"
+	<cstdlib>
+	<verificaciones.h>
+	<Conf.h>
+
+1583382351 c:\users\matias\desktop\utn\gestionuniversidad\include\verificaciones.h
+	<Catedra.h>
+	<Persona.h>
+
+1583396901 source:c:\users\matias\desktop\utn\gestionuniversidad\src\calificacion.cpp
+	"Calificacion.h"
+	<cstdlib>
+	<cstdio>
+	<verificaciones.h>
+	<Conf.h>
+
+1583390339 source:c:\users\matias\desktop\utn\gestionuniversidad\src\carrera.cpp
+	"Carrera.h"
+	<string.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583380985 source:c:\users\matias\desktop\utn\gestionuniversidad\src\catedra.cpp
+	"Catedra.h"
+	<cstdlib>
+	<verificaciones.h>
+	<Conf.h>
+
+1583394986 source:c:\users\matias\desktop\utn\gestionuniversidad\src\catedra_alumnos.cpp
+	"Catedra_alumnos.h"
+	<cstdlib>
+	<cstdio>
+	<verificaciones.h>
+	<Conf.h>
+
+1583381024 c:\users\matias\desktop\utn\gestionuniversidad\include\catedra_alumnos.h
+	"rlutil.h"
+	<cstdio>
+	<cstdlib>
+
+1583410704 source:c:\users\matias\desktop\utn\gestionuniversidad\src\conf.cpp
+	<iostream>
+	<windows.h>
+	"Conf.h"
+	<cstdio>
+	<cstdlib>
+
+1582661928 source:c:\users\matias\desktop\utn\gestionuniversidad\src\fecha.cpp
+
+1583409489 source:c:\users\matias\desktop\utn\gestionuniversidad\src\funcionesdeclases.cpp
+	<funcionesdeclases.h>
+
+1583381289 c:\users\matias\desktop\utn\gestionuniversidad\include\funcionesdeclases.h
+	"rlutil.h"
+	<Catedra_alumnos.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583410704 source:c:\users\matias\desktop\utn\gestionuniversidad\src\menu.cpp
+	"Menu.h"
+	"rlutil.h"
+	<Listado.h>
+	<Informe.h>
+	<Conf.h>
+	<funcionesdeclases.h>
+
+1583409349 c:\users\matias\desktop\utn\gestionuniversidad\include\listado.h
+	<ctype.h>
+	<Clases.h>
+	<Catedra_alumnos.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583397649 c:\users\matias\desktop\utn\gestionuniversidad\include\informe.h
+	<verificaciones.h>
+	<Conf.h>
+
+1583397982 source:c:\users\matias\desktop\utn\gestionuniversidad\src\menumetodos.cpp
+	"Menu.h"
+	"rlutil.h"
+	<funcionesdeclases.h>
+	<Catedra_alumnos.h>
+
+1583407087 source:c:\users\matias\desktop\utn\gestionuniversidad\src\persona.cpp
+	"Persona.h"
+	<string.h>
+	"rlutil.h"
+	<verificaciones.h>
+	<Conf.h>
+
+1583397338 source:c:\users\matias\desktop\utn\gestionuniversidad\src\verificaciones.cpp
+	<verificaciones.h>
+	<Clases.h>
+	<Catedra_alumnos.h>
+	<funcionesdeclases.h>
+	<Conf.h>
+
+1583099116 source:c:\users\matias\desktop\estudios\gestionuniversidad\main.cpp
+	<iostream>
+	<Menu.h>
+	<Conf.h>
+
+1583388682 c:\users\matias\desktop\estudios\gestionuniversidad\include\menu.h
+	<cstdlib>
+	<cstdio>
+	<Clases.h>
+	"rlutil.h"
+
+1581534474 c:\users\matias\desktop\estudios\gestionuniversidad\include\clases.h
+	<Calificacion.h>
+	<Carrera.h>
+	<Catedra.h>
+	<Facultad.h>
+	<Fecha.h>
+	<Asignatura.h>
+	<Persona.h>
+
+1583355341 c:\users\matias\desktop\estudios\gestionuniversidad\include\calificacion.h
+	"rlutil.h"
+	<cstdlib>
+	<cstdio>
+	"Fecha.h"
+
+1464936568 c:\users\matias\desktop\estudios\gestionuniversidad\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1582661919 c:\users\matias\desktop\estudios\gestionuniversidad\include\fecha.h
+
+1583390339 c:\users\matias\desktop\estudios\gestionuniversidad\include\carrera.h
+	<Catedra.h>
+	<materia.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	"rlutil.h"
+
+1583380914 c:\users\matias\desktop\estudios\gestionuniversidad\include\catedra.h
+	"rlutil.h"
+	<Persona.h>
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1583357256 c:\users\matias\desktop\estudios\gestionuniversidad\include\persona.h
+	<Clases.h>
+	<string.h>
+	<fecha.h>
+
+1576162217 c:\users\matias\desktop\estudios\gestionuniversidad\include\materia.h
+	"rlutil.h"
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1576162467 c:\users\matias\desktop\estudios\gestionuniversidad\include\facultad.h
+
+1583354171 c:\users\matias\desktop\estudios\gestionuniversidad\include\asignatura.h
+	"rlutil.h"
+	<string.h>
+	<cstdio>
+	<cstdlib>
+
+1583409663 c:\users\matias\desktop\estudios\gestionuniversidad\include\conf.h
+
+1583390034 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\asignatura.cpp
+	"Asignatura.h"
+	<cstdlib>
+	<verificaciones.h>
+	<Conf.h>
+
+1583382351 c:\users\matias\desktop\estudios\gestionuniversidad\include\verificaciones.h
+	<Catedra.h>
+	<Persona.h>
+
+1583396901 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\calificacion.cpp
+	"Calificacion.h"
+	<cstdlib>
+	<cstdio>
+	<verificaciones.h>
+	<Conf.h>
+
+1583390339 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\carrera.cpp
+	"Carrera.h"
+	<string.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583380985 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\catedra.cpp
+	"Catedra.h"
+	<cstdlib>
+	<verificaciones.h>
+	<Conf.h>
+
+1583394986 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\catedra_alumnos.cpp
+	"Catedra_alumnos.h"
+	<cstdlib>
+	<cstdio>
+	<verificaciones.h>
+	<Conf.h>
+
+1583381024 c:\users\matias\desktop\estudios\gestionuniversidad\include\catedra_alumnos.h
+	"rlutil.h"
+	<cstdio>
+	<cstdlib>
+
+1583410704 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\conf.cpp
+	<iostream>
+	<windows.h>
+	"Conf.h"
+	<cstdio>
+	<cstdlib>
+
+1582661928 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\fecha.cpp
+
+1583409489 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\funcionesdeclases.cpp
+	<funcionesdeclases.h>
+
+1583381289 c:\users\matias\desktop\estudios\gestionuniversidad\include\funcionesdeclases.h
+	"rlutil.h"
+	<Catedra_alumnos.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583410704 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\menu.cpp
+	"Menu.h"
+	"rlutil.h"
+	<Listado.h>
+	<Informe.h>
+	<Conf.h>
+	<funcionesdeclases.h>
+
+1583409349 c:\users\matias\desktop\estudios\gestionuniversidad\include\listado.h
+	<ctype.h>
+	<Clases.h>
+	<Catedra_alumnos.h>
+	<verificaciones.h>
+	<Conf.h>
+
+1583397649 c:\users\matias\desktop\estudios\gestionuniversidad\include\informe.h
+	<verificaciones.h>
+	<Conf.h>
+
+1583397982 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\menumetodos.cpp
+	"Menu.h"
+	"rlutil.h"
+	<funcionesdeclases.h>
+	<Catedra_alumnos.h>
+
+1583397338 source:c:\users\matias\desktop\estudios\gestionuniversidad\src\verificaciones.cpp
+	<verificaciones.h>
+	<Clases.h>
+	<Catedra_alumnos.h>
+	<funcionesdeclases.h>
+	<Conf.h>
+
