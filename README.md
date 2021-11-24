@@ -1,4 +1,4 @@
-# proyecto de facultad: gestion-de-facultad
+# proyecto de facultad: gestion de facultad
 Este es el primer proyecto "grande" que realice solo para la facultad. Escrito en C++ y utilizando la consola para mostrar la información.
 
 El objetivo principal de este proyecto es poder tener un control total en la administración de una facultad, pudiendo tener un control de los alumnos, sus calificaciones, a los
